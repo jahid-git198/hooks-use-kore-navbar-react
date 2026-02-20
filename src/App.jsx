@@ -24,6 +24,7 @@ function App() {
     
       
    {/* <Navbar></Navbar> */}
+   <Navbar1></Navbar1>
   <NewNavbar></NewNavbar>
    <Suspense  fallback={<span className="loading loading-spinner loading-md"></span>}>
       <Prigingoption Prigigoption={Prigigoption}></Prigingoption>

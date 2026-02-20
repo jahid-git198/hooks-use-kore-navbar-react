@@ -1,6 +1,6 @@
 import React from 'react'
 
-function Carddata({card}) {
+function Carddata( ) {
   
     
   return (

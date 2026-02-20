@@ -45,7 +45,7 @@ function NewNavbar() {
     const [open, setopen] = useState(false)
 
     return (
-        <div>
+        <div className=' '>
             <div className=' md:hidden flex ' onClick={() => setopen(!open)}>
 
 
@@ -59,7 +59,7 @@ function NewNavbar() {
 
             <ul className={`
                  absolute md:hidden bg-amber-100 text-black font-bold text-2xl transform ease-in-out duration-1000 
-                 
+                 w-64 h-screen
                   ${open ? "translate-x-0" : "-translate-x-full"}`}>
                 {
                     likns
