@@ -1,0 +1,122 @@
+[
+  {
+    "id": 1,
+    "name": "Jahid Hasan",
+    "age": 22,
+    "role": "Frontend Developer",
+    "country": "Bangladesh",
+    "email": "jahid@gmail.com",
+    "phone": "01700000001",
+    "skills": ["HTML", "CSS", "JavaScript", "React"],
+    "isActive": true,
+    "joinDate": "2023-01-15"
+  },
+  {
+    "id": 2,
+    "name": "Rahim Uddin",
+    "age": 25,
+    "role": "Backend Developer",
+    "country": "Bangladesh",
+    "email": "rahim@gmail.com",
+    "phone": "01700000002",
+    "skills": ["Node.js", "Express", "MongoDB"],
+    "isActive": true,
+    "joinDate": "2022-11-10"
+  },
+  {
+    "id": 3,
+    "name": "Karim Ahmed",
+    "age": 24,
+    "role": "MERN Stack Developer",
+    "country": "Bangladesh",
+    "email": "karim@gmail.com",
+    "phone": "01700000003",
+    "skills": ["MongoDB", "Express", "React", "Node.js"],
+    "isActive": false,
+    "joinDate": "2021-09-05"
+  },
+  {
+    "id": 4,
+    "name": "Nusrat Jahan",
+    "age": 23,
+    "role": "UI/UX Designer",
+    "country": "Bangladesh",
+    "email": "nusrat@gmail.com",
+    "phone": "01700000004",
+    "skills": ["Figma", "Adobe XD", "Photoshop"],
+    "isActive": true,
+    "joinDate": "2023-03-20"
+  },
+  {
+    "id": 5,
+    "name": "Sadia Akter",
+    "age": 21,
+    "role": "Student",
+    "country": "Bangladesh",
+    "email": "sadia@gmail.com",
+    "phone": "01700000005",
+    "skills": ["HTML", "CSS"],
+    "isActive": true,
+    "joinDate": "2024-02-01"
+  },
+  {
+    "id": 6,
+    "name": "Imran Hossain",
+    "age": 27,
+    "role": "Software Engineer",
+    "country": "Bangladesh",
+    "email": "imran@gmail.com",
+    "phone": "01700000006",
+    "skills": ["Java", "Spring Boot", "MySQL"],
+    "isActive": false,
+    "joinDate": "2020-07-18"
+  },
+  {
+    "id": 7,
+    "name": "Tanvir Islam",
+    "age": 26,
+    "role": "Full Stack Developer",
+    "country": "Bangladesh",
+    "email": "tanvir@gmail.com",
+    "phone": "01700000007",
+    "skills": ["React", "Node.js", "Tailwind CSS"],
+    "isActive": true,
+    "joinDate": "2022-05-30"
+  },
+  {
+    "id": 8,
+    "name": "Mim Chowdhury",
+    "age": 22,
+    "role": "Content Creator",
+    "country": "Bangladesh",
+    "email": "mim@gmail.com",
+    "phone": "01700000008",
+    "skills": ["Video Editing", "SEO", "Canva"],
+    "isActive": true,
+    "joinDate": "2023-08-12"
+  },
+  {
+    "id": 9,
+    "name": "Hasan Mahmud",
+    "age": 28,
+    "role": "Project Manager",
+    "country": "Bangladesh",
+    "email": "hasan@gmail.com",
+    "phone": "01700000009",
+    "skills": ["Agile", "Scrum", "Team Management"],
+    "isActive": false,
+    "joinDate": "2019-12-01"
+  },
+  {
+    "id": 10,
+    "name": "Anika Rahman",
+    "age": 20,
+    "role": "Intern Developer",
+    "country": "Bangladesh",
+    "email": "anika@gmail.com",
+    "phone": "01700000010",
+    "skills": ["JavaScript", "React Basics"],
+    "isActive": true,
+    "joinDate": "2024-06-10"
+  }
+]
