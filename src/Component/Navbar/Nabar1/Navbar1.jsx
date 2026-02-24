@@ -7,7 +7,8 @@ const navData = [
     {
         id: 25,
         name: "User Profile",
-        path: "/users/25"
+        path: "/users/25",
+        element: <div>User Profile</div>
     },
     {
         id: 102,
